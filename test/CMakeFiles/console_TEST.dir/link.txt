@@ -1,0 +1,1 @@
+/usr/bin/c++    -fvisibility=hidden -std=c++11 -Wall -Wextra  -O3 -DNDEBUG   CMakeFiles/console_TEST.dir/console_TEST.cc.o  -o ../bin/console_TEST  -L/home/comran/Code/console_bridge/test -Wl,-rpath,/home/comran/Code/console_bridge/test:/home/comran/Code/console_bridge/lib -rdynamic ../lib/libgtest_main.a ../lib/libgtest.a ../lib/libconsole_bridge.so.0.4 -lpthread 
